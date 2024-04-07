@@ -46,7 +46,7 @@ Major frameworks/libraries/languages used in this project:
 <!-- LICENSE -->
 ## License
 
-Distributed under the GPL-3.0 License. See `LICENSE` for more information.
+Distributed under the BSD-3-Clause license. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
