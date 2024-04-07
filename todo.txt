@@ -1,27 +1,27 @@
 DATA COLLECTION
-1. Scrape data from PrizePicks to get projections.
-2. Use balldontlie API to get players' individual box scores for each game.
-3. Dump data from balldontlie to SQL using bash.
+1. [x] Scrape data from PrizePicks to get projections.
+2. [x] Use balldontlie API to get players' individual box scores for each game.
+3. [ ] Dump data from balldontlie to SQL using bash.
    - Create database
    - Create tables
    - Dump data into tables accordingly
 
 Data Analysis
-4. Use SQL queries to understand data.
-5. Create rudimentary predictions using simple statistics for projections.
+4. [ ] Use SQL queries to understand data.
+5. [ ] Create rudimentary predictions using simple statistics for projections.
 
 Front-End Development
-6. Leverage django to create a web application showing best projections to bet 
-   on, using simple probablistic modeling.
+6. [ ] Leverage django to create a web application showing best projections to bet 
+       on, using simple probablistic modeling.
    - The key here is to make it very basic, something to actually see.
 
 Machine Learning
-7. Use various machine learning models to predict projected score.
+7. [ ] Use various machine learning models to predict projected score.
     - Use last n number of games or complete average.
     - *Classification task
     - Can try to scrape online sources and use sentimental analysis
     - Maybe LSTM?
 
 Front-End Development cont.
-8. Implement step 7 and include machine learning model predictions.
-9. Improve the basic structure - refine it.
+8. [ ] Implement step 7 and include machine learning model predictions.
+9. [ ] Improve the basic structure - refine it.
