@@ -4,7 +4,6 @@
 
 source config.env # Load the BALLDONTLIE_API_KEY variable from config.env
 API_ENDPOINT="https://api.balldontlie.io/v1/box_scores" # Endpoint for the API
-DATE="2024-02-07" # Ensure this is in the correct format expected by the API
 API_KEY="${BALLDONTLIE_API_KEY}" # Replace with your actual API key
 
 DB_USER="postgres"
@@ -12,6 +11,8 @@ DB_PASS="postgres"
 DB_NAME="prizes"
 DB_HOST="localhost"
 DB_PORT="5432"
+
+DATE="$1"
 
 #######################################
 # Execute an SQL command on the PostgreSQL database.
@@ -44,10 +45,16 @@ echo "$response" | jq -c '.data[]' | while read -r game_info; do
     execute_sql "INSERT INTO team (team_id, team_name) VALUES ($away_team_id, '$away_team_name') ON CONFLICT (team_id) DO NOTHING;"
 
     # Populate the 'game' table
-    execute_sql "INSERT INTO game (date, home_team_score, away_team_score, home_team_id, away_team_id) VALUES ('$game_date', $home_team_score, $away_team_score, $home_team_id, $away_team_id);"
+    execute_sql "INSERT INTO game (date, home_team_score, away_team_score, home_team_id, away_team_id)
+                 VALUES ('$game_date', $home_team_score, $away_team_score, $home_team_id, $away_team_id)
+                 ON CONFLICT (date, home_team_id, away_team_id) 
+                 DO NOTHING; "
 
     # Get the ID of the newly inserted game
     game_id=$(PGPASSWORD="$DB_PASS" psql -U "$DB_USER" -h "$DB_HOST" -p "$DB_PORT" -d "$DB_NAME" -t -A -c "SELECT game_id FROM game WHERE date = '$game_date' AND home_team_id = $home_team_id AND away_team_id = $away_team_id LIMIT 1;")
+
+    execute_sql "INSERT INTO team_game (team_id, game_id) VALUES ($home_team_id, $game_id) ON CONFLICT (team_id, game_id) DO NOTHING;"
+    execute_sql "INSERT INTO team_game (team_id, game_id) VALUES ($away_team_id, $game_id) ON CONFLICT (team_id, game_id) DO NOTHING;"
 
     # Extract and iterate over the players for the home team
     echo "$game_info" | jq -c '.home_team.players[]' | while read -r game_info; do

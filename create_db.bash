@@ -32,7 +32,8 @@ CREATE TABLE IF NOT EXISTS game (
     home_team_score INT,
     away_team_score INT,
     home_team_id INT REFERENCES team(team_id),
-    away_team_id INT REFERENCES team(team_id)
+    away_team_id INT REFERENCES team(team_id),
+    CONSTRAINT unique_game UNIQUE (date, home_team_id, away_team_id)
 );
 
 CREATE TABLE IF NOT EXISTS player_stat (
