@@ -1,7 +1,9 @@
 #!/bin/bash
+#
+# Scrape NBA player and game data from the BallDontLie API and store it in a PostgreSQL database.
 
-source config.env
-API_ENDPOINT="https://api.balldontlie.io/v1/box_scores"
+source config.env # Load the BALLDONTLIE_API_KEY variable from config.env
+API_ENDPOINT="https://api.balldontlie.io/v1/box_scores" # Endpoint for the API
 DATE="2024-02-07" # Ensure this is in the correct format expected by the API
 API_KEY="${BALLDONTLIE_API_KEY}" # Replace with your actual API key
 

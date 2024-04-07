@@ -1,4 +1,6 @@
 #!/bin/bash
+#
+# Creates psql database and tables for the NBA data.
 
 # Database credentials
 DB_USER="postgres"
