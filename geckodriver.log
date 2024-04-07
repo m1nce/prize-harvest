@@ -1,0 +1,222 @@
+1712426662520	geckodriver	INFO	Listening on 127.0.0.1:64503
+1712426663431	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lt/n_z12_lx2cb6n9qf36pmd3x40000gn/T/rust_mozprofilePL6ObC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712426667641	Marionette	INFO	Marionette enabled
+1712426667875	Marionette	INFO	Listening on port 64518
+1712426668062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/_next/static/chunks/main-878323283d90b24a.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/boxscores-traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712426674307	Marionette	INFO	Stopped listening on port 64518
+JavaScript warning: https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 7255 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 7255 > eval line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+a@https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 7255 > eval line 1 > eval line 1 > eval:1:24
+@https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 7255 > eval line 1 > eval line 1 > eval:1:103
+Do@https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 7255 > eval line 1 > eval line 1 > eval:1:238
+Vc@https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 7255 > eval line 1 > eval line 1 > eval:1:42
+J.G</<@https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval:7255:38572
+Gb@https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval:7255:23622
+k_@https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval:7255:192
+x@https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval:7255:11292
+k_/<@https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval:7255:256
+QF</<@https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval:7255:35963
+
+JavaScript warning: https://nba.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.nba.com, line 8: Script terminated by timeout at:
+processThreadYieldedMessages/<@https://nba.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.nba.com:8:418
+
+1712426878855	geckodriver	INFO	Listening on 127.0.0.1:49413
+1712426879861	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lt/n_z12_lx2cb6n9qf36pmd3x40000gn/T/rust_mozprofileNFx81C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712426880195	Marionette	INFO	Marionette enabled
+1712426880420	Marionette	INFO	Listening on port 49428
+1712426880527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/_next/static/chunks/main-878323283d90b24a.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712426886067	Marionette	INFO	Stopped listening on port 49428
+JavaScript warning: https://www.nba.com/newrelic/newrelic-prod.js, line 2: Script terminated by timeout at:
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:25922
+
+JavaScript warning: https://nba.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.nba.com, line 8: Script terminated by timeout at:
+processThreadYieldedMessages/<@https://nba.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.nba.com:8:418
+
+1712426993751	geckodriver	INFO	Listening on 127.0.0.1:50158
+1712426994761	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/lt/n_z12_lx2cb6n9qf36pmd3x40000gn/T/rust_mozprofileMhgqRZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712426995108	Marionette	INFO	Marionette enabled
+1712426995301	Marionette	INFO	Listening on port 50174
+1712426995407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/_next/static/chunks/main-878323283d90b24a.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/boxscores-traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 4298 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712427001558	Marionette	INFO	Stopped listening on port 50174
+JavaScript warning: https://www.nba.com/newrelic/newrelic-prod.js, line 2: Script terminated by timeout at:
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:25922
+
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html, line 26: Script terminated by timeout at:
+ra/</<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:26:93
+
+JavaScript warning: https://nba.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.nba.com, line 8: Script terminated by timeout at:
+processThreadYieldedMessages/<@https://nba.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.nba.com:8:418
+
+1712427020278	geckodriver	INFO	Listening on 127.0.0.1:50512
+1712427021279	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lt/n_z12_lx2cb6n9qf36pmd3x40000gn/T/rust_mozprofileVPAZ05"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712427021585	Marionette	INFO	Marionette enabled
+1712427021838	Marionette	INFO	Listening on port 50528
+1712427021945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/_next/static/chunks/main-878323283d90b24a.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/boxscores-traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712427027690	Marionette	INFO	Stopped listening on port 50528
+JavaScript warning: https://nba.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.nba.com, line 8: Script terminated by timeout at:
+processThreadYieldedMessages/<@https://nba.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.nba.com:8:418
+
+JavaScript warning: https://www.nba.com/newrelic/newrelic-prod.js, line 2: Script terminated by timeout at:
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:25922
+
+1712427115259	geckodriver	INFO	Listening on 127.0.0.1:51231
+1712427116267	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lt/n_z12_lx2cb6n9qf36pmd3x40000gn/T/rust_mozprofilecw2SGC"
+1712427127448	geckodriver	INFO	Listening on 127.0.0.1:51345
+1712427128461	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lt/n_z12_lx2cb6n9qf36pmd3x40000gn/T/rust_mozprofileWq6dOy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712427128707	Marionette	INFO	Marionette enabled
+1712427129268	Marionette	INFO	Listening on port 51362
+1712427129456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1712427134149	Marionette	INFO	Stopped listening on port 51362
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1712427140162	geckodriver	INFO	Listening on 127.0.0.1:51482
+1712427141173	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lt/n_z12_lx2cb6n9qf36pmd3x40000gn/T/rust_mozprofileDRK2w2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712427141416	Marionette	INFO	Marionette enabled
+1712427141636	Marionette	INFO	Listening on port 51497
+1712427141831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/_next/static/chunks/main-878323283d90b24a.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/boxscores-traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 5209 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 4605 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712427149460	Marionette	INFO	Stopped listening on port 51497
+JavaScript warning: https://www.nba.com/newrelic/newrelic-prod.js, line 2: Script terminated by timeout at:
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:25922
+
+1712427349822	geckodriver	INFO	Listening on 127.0.0.1:52944
+1712427350835	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lt/n_z12_lx2cb6n9qf36pmd3x40000gn/T/rust_mozprofileFQ1xMt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712427351089	Marionette	INFO	Marionette enabled
+1712427351360	Marionette	INFO	Listening on port 52959
+1712427351382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/_next/static/chunks/main-878323283d90b24a.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/boxscores-traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1712427368626	Marionette	INFO	Stopped listening on port 52959
+JavaScript warning: https://www.nba.com/newrelic/newrelic-prod.js, line 2: Script terminated by timeout at:
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:25922
+setTimeout handler*nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:26066
+dE/ex/<@https://cadmus.script.ac/d2wt7w75gg2vz/script.js:1:86154
+t.prototype.throwOnInfiniteLoop@https://c.amazon-adsystem.com/aax2/apstag.js:2:34873
+t.prototype.dispatch@https://c.amazon-adsystem.com/aax2/apstag.js:2:35003
+t.prototype.observeAccountQueuesPush/</e.queue.push@https://c.amazon-adsystem.com/aax2/apstag.js:2:24374
+t.prototype.record/R</</<@https://c.amazon-adsystem.com/aax2/apstag.js:2:17784
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:26066
+r@https://www.nba.com/newrelic/newrelic-prod.js:2:7869
+t.prototype.record/R</<@https://c.amazon-adsystem.com/aax2/apstag.js:2:17749
+r/c/</<@https://c.amazon-adsystem.com/aax2/apstag.js:2:2031
+r/c/<@https://c.amazon-adsystem.com/aax2/apstag.js:2:2136
+o/<@https://c.amazon-adsystem.com/aax2/apstag.js:2:1052
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:26066
+r@https://www.nba.com/newrelic/newrelic-prod.js:2:7869
+o@https://c.amazon-adsystem.com/aax2/apstag.js:2:797
+t.prototype.record@https://c.amazon-adsystem.com/aax2/apstag.js:2:17646
+P</</</t<@https://c.amazon-adsystem.com/aax2/apstag.js:2:13832
+value/<@https://cdn.cookielaw.org/scripttemplates/202403.2.0/otGPP.js:1:18391
+value@https://cdn.cookielaw.org/scripttemplates/202403.2.0/otGPP.js:1:18319
+value@https://cdn.cookielaw.org/scripttemplates/202403.2.0/otGPP.js:1:80034
+ei/this.updateGppConsentString@https://cdn.cookielaw.org/scripttemplates/202403.2.0/otBannerSdk.js:7:352030
+ni.prototype.addGppStringAttribute@https://cdn.cookielaw.org/scripttemplates/202403.2.0/otBannerSdk.js:7:354088
+ni.prototype.createConsentTxn@https://cdn.cookielaw.org/scripttemplates/202403.2.0/otBannerSdk.js:7:355443
+ai.prototype.consentDefaulCall@https://cdn.cookielaw.org/scripttemplates/202403.2.0/otBannerSdk.js:7:383246
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:26066
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1712427456637	geckodriver	INFO	Listening on 127.0.0.1:54088
+1712427457648	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lt/n_z12_lx2cb6n9qf36pmd3x40000gn/T/rust_mozprofile9onBDY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712427457913	Marionette	INFO	Marionette enabled
+1712427458166	Marionette	INFO	Listening on port 54107
+1712427458270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/_next/static/chunks/main-878323283d90b24a.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/boxscores-traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/nHI1KvnozgK29-U1BT7l/Y3aErXuD7r/DVUXRgE/dXMrO/zJSawIB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712427465046	Marionette	INFO	Stopped listening on port 54107
+JavaScript warning: https://www.nba.com/newrelic/newrelic-prod.js, line 2: Script terminated by timeout at:
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:25922
+

@@ -1,0 +1,187 @@
+Name,Prop,Type,Payout,Team,Opponent
+Aaron Nesmith,13.5,Points,Standard,IND,BKN
+Cam Thomas,24.5,Points,Standard,BKN,IND
+Andrew Nembhard,10.5,Points,Standard,IND,BKN
+Dennis Schroder,14.5,Points,Standard,BKN,IND
+Myles Turner,15.5,Points,Standard,IND,BKN
+Dorian Finney-Smith,7.5,Points,Standard,BKN,IND
+Pascal Siakam,22.5,Points,Standard,IND,BKN
+Mikal Bridges,18.5,Points,Standard,BKN,IND
+Tyrese Haliburton,18.5,Points,Standard,IND,BKN
+Nicolas Claxton,10.5,Points,Standard,BKN,IND
+Brandon Miller,18.5,Points,Standard,CHA,BOS
+Derrick White,13.5,Points,Standard,BOS,CHA
+Miles Bridges,21.5,Points,Standard,CHA,BOS
+Jaylen Brown,22.5,Points,Standard,BOS,CHA
+Nick Richards,8.5,Points,Standard,CHA,BOS
+Jayson Tatum,27.5,Points,Standard,BOS,CHA
+Tre Mann,10.5,Points,Standard,CHA,BOS
+Jrue Holiday,12.5,Points,Standard,BOS,CHA
+Vasilije Micic,12.5,Points,Standard,CHA,BOS
+Kristaps Porzingis,19.5,Points,Standard,BOS,CHA
+Cade Cunningham,25.5,Points,Standard,DET,MEM
+GG Jackson II,15.5,Points,Standard,MEM,DET
+Jalen Duren,14.5,Points,Standard,DET,MEM
+Luke Kennard,11.5,Points,Standard,MEM,DET
+Santi Aldama,10.5,Points,Standard,MEM,DET
+Scotty Pippen Jr.,11.5,Points,Standard,MEM,DET
+Dalano Banton,17.5,Points,Standard,POR,ORL
+Franz Wagner,17.5,Points,Standard,ORL,POR
+Deandre Ayton,18.5,Points,Standard,POR,ORL
+Gary Harris,6.5,Points,Standard,ORL,POR
+Jalen Suggs,13.5,Points,Standard,ORL,POR
+Kris Murray,9.5,Points,Standard,POR,ORL
+Paolo Banchero,21.5,Points,Standard,ORL,POR
+Rayan Rupert,6.5,Points,Standard,POR,ORL
+Wendell Carter Jr.,9.5,Points,Standard,ORL,POR
+Scoot Henderson,18.5,Points,Standard,POR,ORL
+Brandon Miller,26.5,Pts+Rebs+Asts,Standard,CHA,BOS
+Derrick White,24.5,Pts+Rebs+Asts,Standard,BOS,CHA
+Miles Bridges,31.5,Pts+Rebs+Asts,Standard,CHA,BOS
+Jaylen Brown,31.5,Pts+Rebs+Asts,Standard,BOS,CHA
+Nick Richards,17.5,Pts+Rebs+Asts,Standard,CHA,BOS
+Jayson Tatum,40.5,Pts+Rebs+Asts,Standard,BOS,CHA
+Tre Mann,19.5,Pts+Rebs+Asts,Standard,CHA,BOS
+Jrue Holiday,22.5,Pts+Rebs+Asts,Standard,BOS,CHA
+Vasilije Micic,21.5,Pts+Rebs+Asts,Standard,CHA,BOS
+Kristaps Porzingis,28.5,Pts+Rebs+Asts,Standard,BOS,CHA
+Cade Cunningham,38.5,Pts+Rebs+Asts,Standard,DET,MEM
+GG Jackson II,22.5,Pts+Rebs+Asts,Standard,MEM,DET
+Jalen Duren,29.5,Pts+Rebs+Asts,Standard,DET,MEM
+Jaren Jackson Jr.,31.5,Pts+Rebs+Asts,Standard,MEM,DET
+Luke Kennard,19.5,Pts+Rebs+Asts,Standard,MEM,DET
+Santi Aldama,19.5,Pts+Rebs+Asts,Standard,MEM,DET
+Scotty Pippen Jr.,19.5,Pts+Rebs+Asts,Standard,MEM,DET
+Dalano Banton,24.5,Pts+Rebs+Asts,Standard,POR,ORL
+Franz Wagner,25.5,Pts+Rebs+Asts,Standard,ORL,POR
+Deandre Ayton,30.5,Pts+Rebs+Asts,Standard,POR,ORL
+Jabari Walker,18.5,Pts+Rebs+Asts,Standard,POR,ORL
+Jalen Suggs,19.5,Pts+Rebs+Asts,Standard,ORL,POR
+Paolo Banchero,34.5,Pts+Rebs+Asts,Standard,ORL,POR
+Wendell Carter Jr.,18.5,Pts+Rebs+Asts,Standard,ORL,POR
+Scoot Henderson,28.5,Pts+Rebs+Asts,Standard,POR,ORL
+Myles Turner,7.5,Rebounds,Standard,IND,BKN
+Tyrese Haliburton,4.5,Rebounds,Standard,IND,BKN
+Nicolas Claxton,9.5,Rebounds,Standard,BKN,IND
+Brandon Miller,4.5,Rebounds,Standard,CHA,BOS
+Jayson Tatum,8.5,Rebounds,Standard,BOS,CHA
+Jrue Holiday,4.5,Rebounds,Standard,BOS,CHA
+Vasilije Micic,2.5,Rebounds,Standard,CHA,BOS
+Kristaps Porzingis,7.5,Rebounds,Standard,BOS,CHA
+Jalen Duren,12.5,Rebounds,Standard,DET,MEM
+Dalano Banton,4.5,Rebounds,Standard,POR,ORL
+Deandre Ayton,10.5,Rebounds,Standard,POR,ORL
+Jabari Walker,7.5,Rebounds,Standard,POR,ORL
+Jalen Suggs,2.5,Rebounds,Standard,ORL,POR
+Kris Murray,4.5,Rebounds,Standard,POR,ORL
+Scoot Henderson,3.5,Rebounds,Standard,POR,ORL
+Pascal Siakam,3.5,Assists,Standard,IND,BKN
+Tyrese Haliburton,10.5,Assists,Standard,IND,BKN
+Brandon Miller,2.5,Assists,Standard,CHA,BOS
+Derrick White,5.5,Assists,Standard,BOS,CHA
+Tre Mann,4.5,Assists,Standard,CHA,BOS
+Vasilije Micic,6.5,Assists,Standard,CHA,BOS
+Luke Kennard,4.5,Assists,Standard,MEM,DET
+Santi Aldama,2.5,Assists,Standard,MEM,DET
+Rayan Rupert,2.5,Assists,Standard,POR,ORL
+Derrick White,2.5,3-PT Made,Standard,BOS,CHA
+Jaren Jackson Jr.,1.5,3-PT Made,Standard,MEM,DET
+Luke Kennard,2.5,3-PT Made,Standard,MEM,DET
+Santi Aldama,1.5,3-PT Made,Standard,MEM,DET
+Scotty Pippen Jr.,1.5,3-PT Made,Standard,MEM,DET
+Gary Harris,1.5,3-PT Made,Standard,ORL,POR
+Brandon Miller,23.5,Pts+Rebs,Standard,CHA,BOS
+Derrick White,18.5,Pts+Rebs,Standard,BOS,CHA
+Miles Bridges,28.5,Pts+Rebs,Standard,CHA,BOS
+Jaylen Brown,28.5,Pts+Rebs,Standard,BOS,CHA
+Nick Richards,16.5,Pts+Rebs,Standard,CHA,BOS
+Jayson Tatum,35.5,Pts+Rebs,Standard,BOS,CHA
+Tre Mann,14.5,Pts+Rebs,Standard,CHA,BOS
+Jrue Holiday,17.5,Pts+Rebs,Standard,BOS,CHA
+Vasilije Micic,14.5,Pts+Rebs,Standard,CHA,BOS
+Kristaps Porzingis,27.5,Pts+Rebs,Standard,BOS,CHA
+Cade Cunningham,30.5,Pts+Rebs,Standard,DET,MEM
+GG Jackson II,20.5,Pts+Rebs,Standard,MEM,DET
+Jalen Duren,26.5,Pts+Rebs,Standard,DET,MEM
+Jaren Jackson Jr.,28.5,Pts+Rebs,Standard,MEM,DET
+Luke Kennard,14.5,Pts+Rebs,Standard,MEM,DET
+Santi Aldama,16.5,Pts+Rebs,Standard,MEM,DET
+Scotty Pippen Jr.,14.5,Pts+Rebs,Standard,MEM,DET
+Dalano Banton,21.5,Pts+Rebs,Standard,POR,ORL
+Franz Wagner,21.5,Pts+Rebs,Standard,ORL,POR
+Deandre Ayton,29.5,Pts+Rebs,Standard,POR,ORL
+Jabari Walker,17.5,Pts+Rebs,Standard,POR,ORL
+Jalen Suggs,15.5,Pts+Rebs,Standard,ORL,POR
+Kris Murray,13.5,Pts+Rebs,Standard,POR,ORL
+Paolo Banchero,28.5,Pts+Rebs,Standard,ORL,POR
+Wendell Carter Jr.,16.5,Pts+Rebs,Standard,ORL,POR
+Scoot Henderson,21.5,Pts+Rebs,Standard,POR,ORL
+Brandon Miller,21.5,Pts+Asts,Standard,CHA,BOS
+Derrick White,19.5,Pts+Asts,Standard,BOS,CHA
+Miles Bridges,24.5,Pts+Asts,Standard,CHA,BOS
+Jaylen Brown,25.5,Pts+Asts,Standard,BOS,CHA
+Jayson Tatum,32.5,Pts+Asts,Standard,BOS,CHA
+Tre Mann,15.5,Pts+Asts,Standard,CHA,BOS
+Jrue Holiday,17.5,Pts+Asts,Standard,BOS,CHA
+Vasilije Micic,18.5,Pts+Asts,Standard,CHA,BOS
+Kristaps Porzingis,21.5,Pts+Asts,Standard,BOS,CHA
+Cade Cunningham,33.5,Pts+Asts,Standard,DET,MEM
+GG Jackson II,17.5,Pts+Asts,Standard,MEM,DET
+Jalen Duren,16.5,Pts+Asts,Standard,DET,MEM
+Jaren Jackson Jr.,25.5,Pts+Asts,Standard,MEM,DET
+Luke Kennard,15.5,Pts+Asts,Standard,MEM,DET
+Santi Aldama,13.5,Pts+Asts,Standard,MEM,DET
+Scotty Pippen Jr.,16.5,Pts+Asts,Standard,MEM,DET
+Dalano Banton,20.5,Pts+Asts,Standard,POR,ORL
+Franz Wagner,20.5,Pts+Asts,Standard,ORL,POR
+Deandre Ayton,20.5,Pts+Asts,Standard,POR,ORL
+Jabari Walker,11.5,Pts+Asts,Standard,POR,ORL
+Jalen Suggs,16.5,Pts+Asts,Standard,ORL,POR
+Kris Murray,11.5,Pts+Asts,Standard,POR,ORL
+Paolo Banchero,27.5,Pts+Asts,Standard,ORL,POR
+Wendell Carter Jr.,11.5,Pts+Asts,Standard,ORL,POR
+Scoot Henderson,24.5,Pts+Asts,Standard,POR,ORL
+Brandon Miller,0.5,Blocked Shots,Standard,CHA,BOS
+Jrue Holiday,0.5,Blocked Shots,Standard,BOS,CHA
+Scotty Pippen Jr.,0.5,Blocked Shots,Standard,MEM,DET
+Jalen Suggs,0.5,Blocked Shots,Standard,ORL,POR
+Paolo Banchero,0.5,Blocked Shots,Standard,ORL,POR
+Kristaps Porzingis,0.5,Steals,Standard,BOS,CHA
+GG Jackson II,0.5,Steals,Standard,MEM,DET
+Jaren Jackson Jr.,1.5,Steals,Standard,MEM,DET
+Rayan Rupert,0.5,Steals,Standard,POR,ORL
+Brandon Miller,7.5,Rebs+Asts,Standard,CHA,BOS
+Derrick White,10.5,Rebs+Asts,Standard,BOS,CHA
+Miles Bridges,10.5,Rebs+Asts,Standard,CHA,BOS
+Jaylen Brown,8.5,Rebs+Asts,Standard,BOS,CHA
+Nick Richards,8.5,Rebs+Asts,Standard,CHA,BOS
+Jayson Tatum,13.5,Rebs+Asts,Standard,BOS,CHA
+Tre Mann,8.5,Rebs+Asts,Standard,CHA,BOS
+Jrue Holiday,9.5,Rebs+Asts,Standard,BOS,CHA
+Jalen Duren,14.5,Rebs+Asts,Standard,DET,MEM
+Luke Kennard,7.5,Rebs+Asts,Standard,MEM,DET
+Santi Aldama,9.5,Rebs+Asts,Standard,MEM,DET
+Scotty Pippen Jr.,8.5,Rebs+Asts,Standard,MEM,DET
+Dalano Banton,7.5,Rebs+Asts,Standard,POR,ORL
+Franz Wagner,7.5,Rebs+Asts,Standard,ORL,POR
+Deandre Ayton,11.5,Rebs+Asts,Standard,POR,ORL
+Jabari Walker,8.5,Rebs+Asts,Standard,POR,ORL
+Paolo Banchero,12.5,Rebs+Asts,Standard,ORL,POR
+Wendell Carter Jr.,8.5,Rebs+Asts,Standard,ORL,POR
+Scoot Henderson,9.5,Rebs+Asts,Standard,POR,ORL
+Jayson Tatum,1.5,Blks+Stls,Standard,BOS,CHA
+Kristaps Porzingis,2.5,Blks+Stls,Standard,BOS,CHA
+Cade Cunningham,1.5,Blks+Stls,Standard,DET,MEM
+Jaren Jackson Jr.,3.5,Blks+Stls,Standard,MEM,DET
+Franz Wagner,1.5,Blks+Stls,Standard,ORL,POR
+Jalen Suggs,2.5,Blks+Stls,Standard,ORL,POR
+Kris Murray,1.5,Blks+Stls,Standard,POR,ORL
+Wendell Carter Jr.,1.5,Blks+Stls,Standard,ORL,POR
+Scoot Henderson,1.5,Blks+Stls,Standard,POR,ORL
+Jayson Tatum,2.5,Turnovers,Standard,BOS,CHA
+Jrue Holiday,1.5,Turnovers,Standard,BOS,CHA
+Vasilije Micic,2.5,Turnovers,Standard,CHA,BOS
+Kristaps Porzingis,1.5,Turnovers,Standard,BOS,CHA
+Cade Cunningham,3.5,Turnovers,Standard,DET,MEM
+Gary Harris,0.5,Turnovers,Standard,ORL,POR
+Jalen Suggs,1.5,Turnovers,Standard,ORL,POR
