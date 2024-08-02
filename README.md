@@ -4,6 +4,10 @@
 
 Attempts to use machine learning in order to make better informed decisions when making parlays on PrizePicks.
 
+## Full Documentation
+
+See the [Wiki](https://github.com/m1nce/prize-harvest/wiki) for full documentation, examples, ooperational details, and other information.
+
 <!-- LANGUAGES/FRAMEWORKS -->
 ## Built With
 
