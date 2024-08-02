@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Ignore inflated line count of .ipynb notebooks
+*.ipynb linguist-vendored
