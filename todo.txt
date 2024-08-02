@@ -1,7 +1,7 @@
 DATA COLLECTION
 1. [x] Scrape data from PrizePicks to get projections.
 2. [x] Use balldontlie API to get players' individual box scores for each game.
-3. [ ] Dump data from balldontlie to SQL using bash.
+3. [x] Dump data from balldontlie to SQL using bash.
    - Create database
    - Create tables
    - Dump data into tables accordingly
